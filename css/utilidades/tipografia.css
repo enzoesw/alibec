@@ -1,0 +1,13 @@
+.font-xs{
+  font: 400 1rem/1.5 "Quicksand", sans-serif;
+}
+.font-s{
+  font: 400 1,5rem/1.5 "Quicksand", sans-serif;
+}
+.font-m{
+  font: 400 1,625rem/1.5 "Quicksand", sans-serif;
+}
+.font-l{
+  font: 400 1,875rem/1.25;
+}
+
